@@ -91,68 +91,22 @@ Please make sure to update tests as appropriate.
 
 <td>
 
-Aradhya Tripathi
+Himanshu Singh
 
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/Aradhya-Tripathi"  height="120" alt="Rusali Saha">
 </p>
 <p align="center">
-<a href = "https://github.com/Aradhya-Tripathi"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://github.com/Aradhya-Tripathi"><img src = "[http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg](https://media.licdn.com/dms/image/D4D03AQHjcHyuju3fPA/profile-displayphoto-shrink_800_800/0/1683379558795?e=1706745600&v=beta&t=XCKn0ti7otYOfDh5FIu6JLV_9H59i7XZwA6WVVDxLSE)" width="36" height = "36"/></a>
+
+
+
+  
 <a href = "https://www.linkedin.com/in/aradhya-tripathi51/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
 </td>
-
-<td>
-
-Sakshi Choudhary
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/sakshi-choudhary"  height="120" alt="Rusali Saha">
-</p>
-<p align="center">
-<a href = "https://github.com/sakshi-choudhary"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sakshichoudhary23/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-Abhishek Saxena
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/saxenabhishek"  height="120" alt="Rusali Saha">
-</p>
-<p align="center">
-<a href = "https://github.com/saxenabhishek"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sakshichoudhary23/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-Nitish Chaturvedi
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/85406812?v=4"  height="120" alt="person">
-</p>
-<p align="center">
-<a href = "https://github.com/nastyphantom"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/nitishc0409/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-
-
-
-
 
   </table>
 </tr>
@@ -160,7 +114,7 @@ Nitish Chaturvedi
 
 
 <p align="center">
-crafted with <span style="color: #8b0000;">&hearts;</span> by team <b>async-await</b>
+crafted with <span style="color: #8b0000;">&hearts;</span> by <b>Himanshu Singh</b>
 </p>
 
 
