@@ -86,23 +86,16 @@ Please make sure to update tests as appropriate.
 <table>
 <tr align="center">
 
-
-
-
 <td>
 
 Himanshu Singh
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/Aradhya-Tripathi"  height="120" alt="Rusali Saha">
+<img src = "https://avatars.githubusercontent.com/HimanshuGitCode"  height="120" alt="Himanshu Singh">
 </p>
 <p align="center">
-<a href = "https://github.com/Aradhya-Tripathi"><img src = "[http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg](https://media.licdn.com/dms/image/D4D03AQHjcHyuju3fPA/profile-displayphoto-shrink_800_800/0/1683379558795?e=1706745600&v=beta&t=XCKn0ti7otYOfDh5FIu6JLV_9H59i7XZwA6WVVDxLSE)" width="36" height = "36"/></a>
-
-
-
-  
-<a href = "https://www.linkedin.com/in/aradhya-tripathi51/">
+<a href = "https://github.com/HimanshuGitCode"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/himanshu-singh01/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -116,7 +109,6 @@ Himanshu Singh
 <p align="center">
 crafted with <span style="color: #8b0000;">&hearts;</span> by <b>Himanshu Singh</b>
 </p>
-
 
 
 
